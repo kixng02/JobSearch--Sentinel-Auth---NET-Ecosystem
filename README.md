@@ -14,7 +14,7 @@ Core Technology Stack
 - RabbitMQ - Message broker for async processing
 
 
-#Frontend & Monitoring
+# Frontend & Monitoring
 - React with TypeScript - Main user-facing frontend
 - Streamlit (Python) - Real-time system monitoring dashboard
 - HTML5/CSS3 - Modern web standards and responsive design
