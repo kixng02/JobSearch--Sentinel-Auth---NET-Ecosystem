@@ -19,3 +19,15 @@ Core Technology Stack
 - Streamlit (Python) - Real-time system monitoring dashboard
 - HTML5/CSS3 - Modern web standards and responsive design
 - JWT Authentication - Client-side token management
+
+
+Infrastructure & DevOps
+Docker & Docker Compose - Containerization and service orchestration
+
+GitHub Actions - CI/CD pipelines and automation
+
+Oracle Cloud (OCI) - Cloud infrastructure and deployment
+
+Cloudflare - CDN, SSL, and security
+
+Linux/Ubuntu - Server administration
