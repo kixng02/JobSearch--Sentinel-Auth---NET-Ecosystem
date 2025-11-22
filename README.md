@@ -72,7 +72,7 @@ Streamlit-Specific Skills Showcased
 - Monitoring & Observability - System health dashboards
 
 
-#Success Metrics
+# Success Metrics
 - ✅ User registration with secure password hashing
 - ✅ JWT token generation and validation
 - ✅ Redis-based rate limiting on login endpoint
