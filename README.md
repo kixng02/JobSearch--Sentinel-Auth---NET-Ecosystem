@@ -57,21 +57,6 @@ Test scenarios include
 - Stress testing - Beyond-capacity scenarios
 - Smoke testing - Basic functionality under load
 
-# Installation
-1. Clone the repository
-* git clone https://github.com/kixng02/Sentinel-Auth-.NET-Ecosystem.git
-* cd Sentinel-Auth-.NET-Ecosystem
-
-2. Configure your environment
-* cp appsettings.Example.json appsettings.Development.json
-Update connection strings and secrets
-
-3. Run the application
-* dotnet run --project Sentinel.Auth
-
-4. Access the application
-* Web Interface: https://localhost:7001
-* API: https://localhost:7000
 
 # 🤝 Contributing
 We welcome contributions! Please see our Contributing Guide for details.
