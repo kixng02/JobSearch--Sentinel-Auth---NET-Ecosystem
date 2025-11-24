@@ -11,6 +11,7 @@ A production-ready system built with .NET Core, designed to handle and scale a m
 - Frontend: React + TypeScript with Vite
 - Analytics Dashboard: Streamlit (A list of the libraries and their uses is found in the project documentation)
 - Backend: .NET Core Web API
+- Geolocation Map: open-source, MapLibre GL JS https://github.com/maplibre/maplibre-gl-js
 - Database: PostgreSQL
 - Authentication: JWT, ASP.NET Core Identity
 - Security: bcrypt, security headers, CORS policies
