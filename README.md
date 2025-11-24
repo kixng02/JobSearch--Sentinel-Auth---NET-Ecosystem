@@ -11,7 +11,7 @@ A production-ready system built with .NET Core, designed to handle and scale a m
 - A system to handle immediate revocation of access tokens (e.g., after a password change or forced logout). The .NET Core API checks this list (which can be memory-cached from Postgres) on every request. k6 tests the performance hit of checking the TRL against the benefit of immediate revocation.
 
 # Technology Stack
-- Frontend: React + TypeScript with Vite
+- Frontend: Razor OR Blazer (Not yet decided)
 - Analytics Dashboard: Streamlit (A list of the libraries and their uses is found in the project documentation)
 - Backend: .NET Core Web API
 - Geolocation Map: open-source, MapLibre GL JS https://github.com/maplibre/maplibre-gl-js
